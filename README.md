@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>
 
-<!-- <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a> -->
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
 
 <a href="https://www.mysql.com/it/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/en/thumb/d/dd/MySQL_logo.svg/800px-MySQL_logo.svg.png" alt="MySQL" height="50" /></a>
 
