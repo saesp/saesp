@@ -79,8 +79,8 @@ Here are some ideas to get you started:
 
 ## Connect with me
 <div align="center">
-<a href="https://github.com/saesp" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://salvatore-esposito.eu" target="_blank">
+<span style="margin-bottom: 5px;">🌐<span/>
 </a>
 
 <a href="https://linkedin.com/in/salvatoresposito" target="_blank">
