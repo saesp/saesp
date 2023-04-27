@@ -80,11 +80,11 @@ Here are some ideas to get you started:
 ## Connect with me
 <div align="center">
 <a href="https://salvatore-esposito.eu" target="_blank">
-<span style="margin-bottom: 5px; margin-right: 10px;">Website 🌐<span/>
+<span style="margin-bottom: 5px; margin-right: 10px;">Website🌐<span/>
 </a>
 
 <a href="https://linkedin.com/in/salvatoresposito" target="_blank">
-<span style="margin-bottom: 5px;">LinkedIn 👥<span/>
+<span style="margin-bottom: 5px;">LinkedIn👥<span/>
 </a>
 </div>
 
